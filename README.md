@@ -1,4 +1,4 @@
-## 来自 * 中华人民共和国 * 的Desktop Developer
+## 来自 ** 中华人民共和国 ** 的Desktop Developer
 其实也就写写代码（美工是不可能的，只好用Fluent Design）
 
 ## 目前正在开发
